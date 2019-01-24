@@ -4,7 +4,8 @@
 
 Ensure you forfill the following requirements
 
-- Windows Account (To register on Azure, students can apply for a [student account](https://azure.microsoft.com/de-de/free/students/))
+- [Microsoft Account](https://account.microsoft.com/account?lang=de-de) 
+- Azure Subscription: [Azure](https://azure.microsoft.com/de-de/offers/ms-azr-0044p/),[Azure Pass](https://www.microsoftazurepass.com/), [student account](https://azure.microsoft.com/de-de/free/students/))
 - Install BotEmulator v4 [Release](https://github.com/Microsoft/BotFramework-Emulator/releases)
 - Install NodeJs [Homepage](https://nodejs.org/en/)
 - Install [VS-Code](https://code.visualstudio.com/) or other IDE of your choice 
@@ -26,4 +27,4 @@ To run the chatbot out of the box you just need to add your keys to:
 
 ## Rebuild it your self
 
-1. 
+Comming
