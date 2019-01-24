@@ -28,3 +28,8 @@ To run the chatbot out of the box you just need to add your keys to:
 ## Rebuild it your self
 
 Comming
+
+## Speaker
+
+- Jens Bräuerle [LinkedIn](https://www.linkedin.com/in/jens-baeuerle/)
+- Max-Philipp Schrader [LinkedIn](https://www.linkedin.com/in/max-philipp-schrader/)
