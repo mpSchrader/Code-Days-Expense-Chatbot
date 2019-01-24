@@ -24,3 +24,6 @@ To run the chatbot out of the box you just need to add your keys to:
 - [/dialogs/newExpense/newExpense.js](https://github.com/mpSchrader/Code-Days-Expense-Chatbot/blob/master/Final_Bot/dialogs/newExpense/newExpense.js)
 - [/ExpenseNodeJS.bot](https://github.com/mpSchrader/Code-Days-Expense-Chatbot/blob/master/Final_Bot/ExpenseNodeJS.bot)
 
+## Rebuild it your self
+
+1. 
