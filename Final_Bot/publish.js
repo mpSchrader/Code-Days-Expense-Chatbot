@@ -5,9 +5,9 @@ var request = require('request');
 
 var rootFolder = path.resolve('.');
 var zipPath = path.resolve(rootFolder, '../expensenodejs.zip');
-var kuduApi = 'https://expensenodejs.scm.azurewebsites.net/api/zip/site/wwwroot';
+var kuduApi = '<your_config>';
 var userName = '$expensenodejs';
-var password = 'vGehP1qA7svbaqk8gADhEBTEwK03dYY62WuBZ7jg6oLk9JwulwMT2Bk4H3iD';
+var password = '<your_config>';
 
 function uploadZip(callback) {
   fs.createReadStream(zipPath).pipe(request.put(kuduApi, {
