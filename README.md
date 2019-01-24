@@ -31,5 +31,5 @@ Comming
 
 ## Speaker
 
-- Jens Bräuerle [LinkedIn](https://www.linkedin.com/in/jens-baeuerle/)
-- Max-Philipp Schrader [LinkedIn](https://www.linkedin.com/in/max-philipp-schrader/)
+- Jens Bräuerle [[LinkedIn](https://www.linkedin.com/in/jens-baeuerle/)]
+- Max-Philipp Schrader [[LinkedIn](https://www.linkedin.com/in/max-philipp-schrader/)]
