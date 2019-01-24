@@ -13,10 +13,10 @@ Ensure you forfill the following requirements
 
 ## Azure Services Setup
 
-1. LUIS
-2. QnA
-3. Bot WebApp
-4. CustomVision
+1. Setup Resource Group
+2. Create new Bot by using the *Basic Bot Template* (Inkludes LUIS)  
+3. Create QnA-App
+4. Create CustomVision Resource
 
 ## Run out of the box
 To run the chatbot out of the box you just need to add your keys to:
