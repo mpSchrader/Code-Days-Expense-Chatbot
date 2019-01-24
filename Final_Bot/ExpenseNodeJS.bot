@@ -1,0 +1,61 @@
+{
+  "name": "ExpenseNodeJS",
+  "padlock": "<your_config>",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "<your_config>",
+      "subscriptionId": "<your_config>",
+      "resourceGroup": "<your_config>",
+      "serviceName": "<your_config>",
+      "type": "abs",
+      "name": "<your_config>",
+      "id": "1"
+    },
+    {
+      "connectionString": "<your_config>",
+      "tenantId": "<your_config>",
+      "subscriptionId": "<your_config>",
+      "resourceGroup": "<your_config>",
+      "serviceName": "<your_config>",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "<your_config>",
+      "appPassword": "<your_config>",
+      "endpoint": "<your_config>",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "<your_config>",
+      "applicationId": "<your_config>",
+      "apiKeys": {},
+      "tenantId": "<your_config>",
+      "subscriptionId": "\"<your_config>,",
+      "resourceGroup": "<your_config>",
+      "serviceName": "<your_config>",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "<your_config>",
+      "authoringKey": "<your_config>",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "<your_config>",
+      "id": "6"
+    }
+  ]
+}
