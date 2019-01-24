@@ -4,7 +4,7 @@
 
 Ensure you forfill the following requirements
 
-- Windows Account (To register on Azure)
+- Windows Account (To register on Azure, students can apply for a [student account](https://azure.microsoft.com/de-de/free/students/))
 - Install BotEmulator v4 [Release](https://github.com/Microsoft/BotFramework-Emulator/releases)
 - Install NodeJs [Homepage](https://nodejs.org/en/)
 - Install [VS-Code](https://code.visualstudio.com/) or other IDE of your choice 
